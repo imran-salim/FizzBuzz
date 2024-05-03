@@ -1,5 +1,5 @@
 # FizzBuzz
----
+
 Use the following command to compile the Java file:
 ```
 javac FizzBuzz.java
