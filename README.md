@@ -5,7 +5,7 @@ Use the following command to compile the Java file:
 javac FizzBuzz.java
 ```
 
-Use the following command to execute the Java binary file (p-code):
+Use the following command to execute the Java binary file (bytecode):
 ```
 java FizzBuzz
 ```
